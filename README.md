@@ -16,11 +16,11 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
+- **Category:** Social Networking / Food
+- **Mobile:** This applicaion would be primarily developed for mobile and maybe a website base computer application as well. This appliation would rely on the phones GPS and locations. It would also alert the user with push notifiactions. 
+- **Story:** 
 - **Market:**
-- **Habit:**
+- **Habit:** The application would have a likes and dislikes feature where users would be able to like and comment on reivews
 - **Scope:**
 
 ## Product Spec
@@ -29,19 +29,13 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 
 **Required Must-have Stories**
 
-* Profile pages for each user where they have the option to add favorite foods, least favorite foods, etc.
-* User takes the taste assessment and gets assigned tags that describe their taste. They can retake this assessment at anytime.
-* User gets matched with people with similar taste profiles and tags
-* User has the option to follow/add their matches to see them on their feed
-* Can view local matches or worldwide
-* Settings (Accesibility, Notification, General, etc.)
-
+* User 
+* ...
 
 **Optional Nice-to-have Stories**
 
-* Can chat with matches 
-* Recently tried restaurants and foods 
-* Users can have the option to search through profiles with differing tastes if they want
+* [fill in your required user stories here]
+* ...
 
 ### 2. Screen Archetypes
 
