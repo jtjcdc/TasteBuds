@@ -15,7 +15,6 @@ Group Project - README Template
 TasteBuds is a food social media network that makes food and restaurant recommendations based on users who share similar tastes.
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
 - **Category:** Social Networking / Food
 - **Mobile:** This applicaion would be primarily developed for mobile and maybe a website base computer application as well. This appliation would rely on the phones GPS and locations. It would also alert the user with push notifiactions. 
 - **Story:** Analyzes users' food choices and connects them to other users with similiar tastes. The user could share, rate, and review their favorite restautrant and foods which would help other users decide what to try.
