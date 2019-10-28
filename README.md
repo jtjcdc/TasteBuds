@@ -43,17 +43,19 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 
 ### 2. Screen Archetypes
 
-* Login
-* Register 
-   * User signs up or logs into account
-* Profile Screen 
-   * User creates a profile(can add faves, dislikes, etc.)
-* Feed
-   * User gets matched with people with similar taste profiles and can choose to follow their matches and see their recently tried     foods, restaurants, recommended foods, etc. on their feed
-* Recommendedations 
-   * Users will get recommendations based on their taste matches recommendations and tags
-* Settings
-   * User can change language, notifications, match settings, etc.
+•	Login
+o	When users download or logout of the application, they will be required to login to the application in order to gain access to their user profile. Logging in allows the user to access their timeline, inbox and other features attached to the application. 
+•	Register - User signs up or logs into their account
+o	Upon registration users will be required to take a taste assessment and create their user profile. Afterwards, they will receive matches to other users and profile tags.
+•	Direct Messaging Screen – Feature used for communication between users
+o	After opening the direct messaging tab, the user will be allowed to see personal messages and group messages between them and other users.
+•	Profile Screen
+o	Allows users to share relevant information about themselves. Such as location, a short bio and taste in food. 
+•	Home Screen.
+o	Displays the user’s timeline which includes post about recommended restaurants, other users’ recommendation of restaurants and social post.
+•	Settings Screen
+o	Allows users to change language, retake taste assessment and delete their account.
+
 
 
 ### 3. Navigation
