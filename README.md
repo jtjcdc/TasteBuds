@@ -29,13 +29,19 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 
 **Required Must-have Stories**
 
-* User 
-* ...
+* User creates a profile(can add faves, dislikes, etc.)
+* User takes the taste assessment (can retake at anytime)
+* User gets matched with people with similar taste profiles and can choose to follow their matches and see their recently tried foods, restaurants, recommended foods, etc. on their feed.
+* User can toggle the settings to view only local matches, or national ones.
+* Matches have a chat window option(they can possibly meet up and go out to eat together)
+* Profile pages
+* Settings
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Sync with other social media
+* Ability to share and post recipes
+* Page of the most popular dish and restaurant for each taste tag the user has
 
 ### 2. Screen Archetypes
 
