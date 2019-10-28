@@ -48,7 +48,7 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 * Register 
    * User signs up or logs into account
 * Profile Screen 
-   * User creates a profile(can add faves, dislikes, etc.)
+   * User creates a profile where theyshare relevant information about themselves such as location, a short bio and likes/dislikes in food.
 * Feed
    * User gets matched with people with similar taste profiles and can choose to follow their matches and see their recently tried     foods, restaurants, recommended foods, etc. on their feed
 * Matches
