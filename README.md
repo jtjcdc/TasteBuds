@@ -34,8 +34,9 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 * User gets matched with people with similar taste profiles and can choose to follow their matches and see their recently tried foods, restaurants, recommended foods, etc. on their feed.
 * User can toggle the settings to view only local matches, or national ones.
 * Matches have a chat window option(they can possibly meet up and go out to eat together)
-* Profile pages
-* Settings
+* User can search for foods, restaurants, reviews, or other users
+* Settings (change language, notifications, match settings, etc.)
+
 
 **Optional Nice-to-have Stories**
 
@@ -58,12 +59,14 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 * Chat Screen
    * Allows the user to connect with matched accounts on a direct one to one connection.
    
-* Setting Screen
+* Settings Screen
    * This screen will allow the user to change profile pictures edit there personal information, block unwanted users, And send friend request to other users that in their contacts. 
    
 * Profile Screen
-   * 
-   * 
+   * User creates a profile where theyshare relevant information about themselves such as location, a short bio and likes/dislikes in food.
+ 
+ * Recommendedations 
+   * User will get recommendations based on their taste matches recommendations and tags  
    
 * Taste Assessments Screen
    * This screen will feature a test assessment about 30 or more questions that will determine what kind of foods the user      likes. The user would then be given tag base on how the answer the questions. The user will be given a maxmimum of 5 tags.
@@ -75,6 +78,9 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 * Notification Screen
    * The Notification screen will allow the user to see what likes and comments on the the reviews that they leave.
    * Also the 
+   
+* Explore 
+   * User can search for foods, restaurants, reviews, or other users
    
 * News feed Screen
    * The News Feed will show people's prefered restaurant and prefered dishes. The will be displayed to the user as a list view form.
