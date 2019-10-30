@@ -32,7 +32,6 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 * User creates a profile(can add faves, dislikes, etc.)
 * User takes the taste assessment (can retake at anytime)
 * User gets matched with people with similar taste profiles and can choose to follow their matches and see their recently tried foods, restaurants, recommended foods, etc. on their feed.
-* User can toggle the settings to view only local matches, or national ones.
 * Matches have a chat window option(they can possibly meet up and go out to eat together)
 * User can search for foods, restaurants, reviews, or other users
 * Settings (change language, notifications, match settings, etc.)
@@ -43,6 +42,7 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 * Sync with other social media
 * Ability to share and post recipes
 * Page of the most popular dish and restaurant for each taste tag the user has
+* User can toggle the settings to view only local matches, or national ones.
 
 ### 2. Screen Archetypes
 
@@ -60,7 +60,7 @@ TasteBuds is a food social media network that makes food and restaurant recommen
    * Allows the user to connect with matched accounts on a direct one to one connection.
    
 * Settings Screen
-   * This screen will allow the user to change profile pictures edit there personal information, block unwanted users, And send friend request to other users that in their contacts. 
+   * This screen will allow the user to change profile pictures edit their personal information, block unwanted users, etc.
    
 * Profile Screen
    * User creates a profile where theyshare relevant information about themselves such as location, a short bio and likes/dislikes in food.
@@ -95,7 +95,7 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 * Setting
 * Camera
 * News Feed
-* Explore / Camera
+* Explore / Recommendations
 * Chat
 
 
