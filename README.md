@@ -50,19 +50,38 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Login
+* Profile
+* Matches
+* Setting
+* Camera
+* News Feed
+* Explore / Camera
+* Chat
+
+
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
-
+* Forced Log In -> Account Creation if no log in information is available
+   * Forced Log - > News Feed
+  
+* News  Feed -> Explore / Recommendation 
+   *News Feed -> Toggles a write a review page that allows User to take photo of food item -> Camera
+ 
+* Profile -> Access Your Settings 
+   * Profile -> View and edit Profile
+  
+* Matches -> View Other Users Profile in your matches/friends/followers
+   * Matches-> Chat
+   
+* Setting-> Toggle Settings
+   
+* Camera->  Profile Allows the user to take profile information
+  
+* Explore / Recommendation->  Search for restaurants, users, etc.
+   
+   
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
