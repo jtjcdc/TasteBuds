@@ -15,6 +15,7 @@ Group Project - README Template
 TasteBuds is a food social media network that makes food and restaurant recommendations based on users who share similar tastes.
 
 ### App Evaluation
+[Evaluation of your app across the following attributes]
 - **Category:** Social Networking / Food
 - **Mobile:** This applicaion would be primarily developed for mobile and maybe a website base computer application as well. This appliation would rely on the phones GPS and locations. It would also alert the user with push notifiactions. 
 - **Story:** Analyzes users' food choices and connects them to other users with similiar tastes. The user could share, rate, and review their favorite restautrant and foods which would help other users decide what to try.
@@ -27,17 +28,18 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
-* User signs up or logs into account
+
 * User creates a profile(can add faves, dislikes, etc.)
 * User takes the taste assessment (can retake at anytime)
 * User gets matched with people with similar taste profiles and can choose to follow their matches and see their recently tried foods, restaurants, recommended foods, etc. on their feed.
-* Users will get recommendations based on their taste matches recommendations and tags.
 * User can toggle the settings to view only local matches, or national ones.
 * Matches have a chat window option(they can possibly meet up and go out to eat together)
 * User can search for foods, restaurants, reviews, or other users
 * Settings (change language, notifications, match settings, etc.)
 
+
 **Optional Nice-to-have Stories**
+
 * Sync with other social media
 * Ability to share and post recipes
 * Page of the most popular dish and restaurant for each taste tag the user has
@@ -45,23 +47,43 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 ### 2. Screen Archetypes
 
 * Login
-* Register 
-   * User signs up or logs into account
-* Profile Screen 
+
+* Register
+   * Allows the user to setup an Account name/password and touch ID/Face ID.
+   * The user would then put in there information and then be directed to the Assessment Screen.
+   
+* Matches Screen
+   * This will allow the user to see people with similar tastes in food.
+   * There will be a button that will direct the user to the chat screen.
+   
+* Chat Screen
+   * Allows the user to connect with matched accounts on a direct one to one connection.
+   
+* Settings Screen
+   * This screen will allow the user to change profile pictures edit there personal information, block unwanted users, And send friend request to other users that in their contacts. 
+   
+* Profile Screen
    * User creates a profile where theyshare relevant information about themselves such as location, a short bio and likes/dislikes in food.
-* Feed
-   * User gets matched with people with similar taste profiles and can choose to follow their matches and see their recently tried     foods, restaurants, recommended foods, etc. on their feed
-* Matches
-   * User can search through their matches
-* Chat
-   * User can chat with their matches
-* Recommendedations 
-   * User will get recommendations based on their taste matches recommendations and tags
+ 
+ * Recommendedations 
+   * User will get recommendations based on their taste matches recommendations and tags  
+   
+* Taste Assessments Screen
+   * This screen will feature a test assessment about 30 or more questions that will determine what kind of foods the user      likes. The user would then be given tag base on how the answer the questions. The user will be given a maxmimum of 5 tags.
+   
+* Camera Screen
+   * This will call the camera API which the user would be able to take a profile picture
+   * The Camera screen would also be able to have access the gallery part of the users phone to upload a profile picture.
+   
+* Notification Screen
+   * The Notification screen will allow the user to see what likes and comments on the the reviews that they leave.
+   * Also the 
+   
 * Explore 
    * User can search for foods, restaurants, reviews, or other users
-* Settings
-   * User can change language, notifications, match settings, etc.
-
+   
+* News feed Screen
+   * The News Feed will show people's prefered restaurant and prefered dishes. The will be displayed to the user as a list view form.
 
 ### 3. Navigation
 
