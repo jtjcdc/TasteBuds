@@ -125,6 +125,14 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 
 ### [BONUS] Digital Wireframes & Mockups
 <img src="https://i.imgur.com/pRlmfYo.png" height=200>
+<img src="https://i.imgur.com/nP1cS0J.png" height=200>
+<img src="https://i.imgur.com/vv5TMt9.png" height=200>
+<img src="https://i.imgur.com/a2Bmrkh.png" height=200>
+<img src="https://i.imgur.com/m3rxCjA.png" height=200>
+<img src="https://i.imgur.com/TrusXHX.png" height=200>
+<img src="https://i.imgur.com/gdQTICM.png" height=200>
+<img src="https://i.imgur.com/QCGiJNf.png" height=200>
+<img src="https://i.imgur.com/1WBrhHb.png" height=200>
 
 
 ### [BONUS] Interactive Prototype
