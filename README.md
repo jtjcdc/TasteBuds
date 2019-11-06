@@ -163,6 +163,7 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 - Zomato API https://developers.zomato.com/documentation
 
 Common
+
 |Get         | Endpoint            | Description                           |
 |------------|---------------------|----------------------------------------
 | get        |  /categories        | Get list of categories
@@ -172,12 +173,14 @@ Common
 | get        |  /geocode           | Get locations details based on coordinates
 
 Location
+
 |Get         | Endpoint            | Description           |
 |------------|---------------------|------------------------
 | get        |  /location_detail   | Get Zomato location details
 | get        |  /locations         | Search for locations
 
 Restaurant
+
 |Get         | Endpoint            | Description
 |------------|---------------------|------------------------
 | get        |  /dailymenu         | Get Zomato location details
