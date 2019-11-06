@@ -151,6 +151,24 @@ Post
 | Updated_at    | DateTime      | Date when post is last created (default)
 | rating        | double        | A value that holds the rating
 
+Restaurant 
+
+| Property      | Type          | Description |
+| ------------- |-------------  | ----- |
+| id            | int           | Unique id for the restaurant   
+| name          | String        | Name of the restaurant    
+| address       | String        | Address of the restaurant 
+| locality      | String        | This is the venue or plaza of the location
+| city          | String        | City name
+| latitude      | float         | The latitude displayed as a float
+| longitude     | float         | The longitude displayed as a float
+| zipcode       | int           | Zipcode of the restaurant 
+| cuisines      | string        | Cuisines offered at each restaurant
+| url           | String        | The url of the website
+| all_reviews_count| int        | Holds all of the review counts
+| rating        | int           | Holds the ratings
+| review_text   | String        | The user’s review, max 5000 characters 
+
 Log In
 
 | Property      | Type          | Description |
