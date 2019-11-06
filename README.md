@@ -135,7 +135,85 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+Post
+
+| Property      | Type          | Description |
+| ------------- |-------------  | ----- |
+| object        | String        | Unique id for the user post   
+| author        | Pointer to user| Image author     
+| image         | file          | Image file the user post 
+| Caption       | String        | Image caption by author
+| commentsCount | int           | Number of comments that has been posted
+| location      | JSON          | Stores the location of the user
+| object        | String        | Unique id for the user post
+| likesCount    | int           | Number of likes for the post
+| Created_at    | DateTime      | Date when post is created (default)
+| Updated_at    | DateTime      | Date when post is last created (default)
+| rating        | double        | A value that holds the rating
+
+Restaurant 
+
+| Property      | Type          | Description |
+| ------------- |-------------  | ----- |
+| id            | int           | Unique id for the restaurant   
+| name          | String        | Name of the restaurant    
+| address       | String        | Address of the restaurant 
+| locality      | String        | This is the venue or plaza of the location
+| city          | String        | City name
+| latitude      | float         | The latitude displayed as a float
+| longitude     | float         | The longitude displayed as a float
+| zipcode       | int           | Zipcode of the restaurant 
+| cuisines      | string        | Cuisines offered at each restaurant
+| url           | String        | The url of the website
+| all_reviews_count| int        | Holds all of the review counts
+| rating        | int           | Holds the ratings
+| review_text   | String        | The user’s review, max 5000 characters 
+
+Log In
+
+| Property      | Type          | Description |
+| ------------- |-------------  | ----- |
+| username      | String        | Unique id for the user log in (default)   
+| password      | String        | Unique password for the user (default)
+ 
+
+Tags 
+
+| Property      | Type          | Description |
+| ------------- |-------------  | ----- |
+| tagName       | String        | Name of the tag   
+| bgButton      | file          | Background color/image of the tag
+
+
+Profile 
+
+| Property      | Type          | Description |
+| ------------- |-------------  | ----- |
+| username      | String        | User’s name   
+| profileImage  | file          | Profile picture
+| bio           | String        | A short bio, max 160 characters 
+
+Settings 
+
+| Property      | Type          | Description |
+| ------------- |-------------  | ----- |
+| location      | object        | User locatin   
+| avatar        | file          | Profile picture
+| bio           | String        | A short bio, max 160 characters 
+| username      | String        | User's name
+| email         | String        | User's email
+| password      | String        | User's password
+| notifications | Bool          | Option to receives notifications from the app
+
+Matches 
+
+| Property      | Type          | Description |
+| ------------- |-------------  | ----- |
+| matchID       | int           | Unique id used for matches   
+| Created_at    | DateTime      | Date when match was created (default)
+| Deleted_at    | DateTime      | Date when the match was deleted 
+
+
 ### Networking
 - Log in Screen
 * (Create/Login) if the user does not have an account allow them to create one.
