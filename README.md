@@ -141,7 +141,7 @@ Post
 | ------------- |-------------  | ----- |
 | object        | String        | Unique id for the user post   
 | author        | Pointer to user| Image author     
-| image         | file          |    Image file the user post 
+| image         | file          | Image file the user post 
 | Caption       | String        | Image caption by author
 | commentsCount | int           | Number of comments that has been posted
 | location      | JSON          | Stores the location of the user
@@ -182,7 +182,7 @@ Tags
 | Property      | Type          | Description |
 | ------------- |-------------  | ----- |
 | tagName       | String        | Name of the tag   
-| bgButton      | File          | Background color/image of the tag
+| bgButton      | file          | Background color/image of the tag
 
 
 Profile 
@@ -190,10 +190,28 @@ Profile
 | Property      | Type          | Description |
 | ------------- |-------------  | ----- |
 | username      | String        | User’s name   
-| profileImage  | File          | Profile picture
+| profileImage  | file          | Profile picture
 | bio           | String        | A short bio, max 160 characters 
 
+Settings 
 
+| Property      | Type          | Description |
+| ------------- |-------------  | ----- |
+| location      | object        | User locatin   
+| avatar        | file          | Profile picture
+| bio           | String        | A short bio, max 160 characters 
+| username      | String        | User's name
+| email         | String        | User's email
+| password      | String        | User's password
+| notifications | Bool          | Option to receives notifications from the app
+
+Matches 
+
+| Property      | Type          | Description |
+| ------------- |-------------  | ----- |
+| matchID       | int           | Unique id used for matches   
+| Created_at    | DateTime      | Date when match was created (default)
+| Deleted_at    | DateTime      | Date when the match was deleted 
 
 
 
