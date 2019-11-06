@@ -135,9 +135,7 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
 Post
-
 | Property      | Type          | Description |
 | ------------- |-------------  | ----- |
 | object        | String        | Unique id for the user post   
@@ -151,6 +149,28 @@ Post
 | Created_at    | DateTime      | Date when post is created (default)
 | Updated_at    | DateTime      | Date when post is last created (default)
 | rating        | double        | A value that holds the rating
+
+Log In
+| Property      | Type          | Description |
+| ------------- |-------------  | ----- |
+| username      | String        | Unique id for the user log in (default)   
+| password      | String        | Unique password for the user (default)
+ 
+
+Tags 
+| Property      | Type          | Description |
+| ------------- |-------------  | ----- |
+| tagName       | String        | Name of the tag   
+| bgButton      | File          | Background color/image of the tag
+
+
+Profile 
+| Property      | Type          | Description |
+| ------------- |-------------  | ----- |
+| username      | String        | User’s name   
+| profileImage  | File          | Profile picture
+| bio           | String        | A short bio, max 160 characters 
+
 
 
 
