@@ -136,6 +136,43 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 [This section will be completed in Unit 9]
 ### Models
 [Add table of models]
+Post
+| Property | Type | Description |
+| :---         |     :---      |          :--- |
+| object   | String     | Unique id for the user post    |
+| author     | Pointer to user      | Image author     |
+
+
+
+
+
+image
+file
+Image file the user post
+Caption 
+String
+Image caption by author
+commentsCount
+int
+Number of comments that has been posted
+location
+JSON
+Stores the location of the user
+likesCount
+int
+Number of likes for the post
+Created at
+DateTime
+Date when post is created (default)
+Updated at 
+DateTime
+Date when post is last created (default)
+rating
+double
+A value that holds the rating
+
+
+
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
