@@ -136,6 +136,7 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 [This section will be completed in Unit 9]
 ### Models
 Post
+
 | Property      | Type          | Description |
 | ------------- |-------------  | ----- |
 | object        | String        | Unique id for the user post   
@@ -151,6 +152,7 @@ Post
 | rating        | double        | A value that holds the rating
 
 Log In
+
 | Property      | Type          | Description |
 | ------------- |-------------  | ----- |
 | username      | String        | Unique id for the user log in (default)   
@@ -158,6 +160,7 @@ Log In
  
 
 Tags 
+
 | Property      | Type          | Description |
 | ------------- |-------------  | ----- |
 | tagName       | String        | Name of the tag   
@@ -165,6 +168,7 @@ Tags
 
 
 Profile 
+
 | Property      | Type          | Description |
 | ------------- |-------------  | ----- |
 | username      | String        | User’s name   
