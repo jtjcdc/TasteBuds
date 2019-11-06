@@ -137,43 +137,22 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 ### Models
 [Add table of models]
 Post
-| Property | Type | Description |
-| :---         |     :---      |          :--- |
-| object   | String     | Unique id for the user post    |
-| author     | Pointer to user      | Image author     |
 
-| Tables        | Are           | Cool  |
+| Property      | Type          | Description |
 | ------------- |-------------  | ----- |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| object        | String        | Unique id for the user post   
+| author        | Pointer to user| Image author     
+| image         | file          |    Image file the user post 
+| Caption       | String        | Image caption by author
+| commentsCount | int           | Number of comments that has been posted
+| location      | JSON          | Stores the location of the user
+| object        | String        | Unique id for the user post
+| likesCount    | int           | Number of likes for the post
+| Created_at    | DateTime      | Date when post is created (default)
+| Updated_at    | DateTime      | Date when post is last created (default)
+| rating        | double        | A value that holds the rating
 
 
-
-image
-file
-Image file the user post
-Caption 
-String
-Image caption by author
-commentsCount
-int
-Number of comments that has been posted
-location
-JSON
-Stores the location of the user
-likesCount
-int
-Number of likes for the post
-Created at
-DateTime
-Date when post is created (default)
-Updated at 
-DateTime
-Date when post is last created (default)
-rating
-double
-A value that holds the rating
 
 
 
