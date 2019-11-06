@@ -120,8 +120,7 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 * Explore / Recommendation->  Search for restaurants, users, etc.
    
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://i.imgur.com/jcBonrW.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 <img src="https://i.imgur.com/pRlmfYo.png" height=200> <img src="https://i.imgur.com/nP1cS0J.png" height=200> 
