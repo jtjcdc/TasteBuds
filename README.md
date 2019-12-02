@@ -66,9 +66,6 @@ TasteBuds is a food social media network that makes food and restaurant recommen
  * Recommendedations 
    * User will get recommendations based on their taste matches recommendations and tags  
    
-* Taste Assessments Screen
-   * This screen will feature a test assessment about 30 or more questions that will determine what kind of foods the user      likes. The user would then be given tag base on how the answer the questions. The user will be given a maxmimum of 5 tags.
-   
 * Camera Screen
    * This will call the camera API which the user would be able to take a profile picture
    * The Camera screen would also be able to have access the gallery part of the users phone to upload a profile picture.
