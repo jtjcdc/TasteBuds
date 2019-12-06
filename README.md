@@ -119,17 +119,16 @@ TasteBuds is a food social media network that makes food and restaurant recommen
 <img src="https://i.imgur.com/jcBonrW.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="https://i.imgur.com/pRlmfYo.png" height=200> <img src="https://i.imgur.com/nP1cS0J.png" height=200> 
-<img src="https://i.imgur.com/vv5TMt9.png" height=200> <img src="https://i.imgur.com/a2Bmrkh.png" height=200>
-<img src="https://i.imgur.com/m3rxCjA.png" height=200> <img src="https://i.imgur.com/TrusXHX.png" height=200> 
-<img src="https://i.imgur.com/gdQTICM.png" height=200> <img src="https://i.imgur.com/QCGiJNf.png" height=200>
-<img src="https://i.imgur.com/1WBrhHb.png" height=200>
+<img src="https://i.imgur.com/z0yd5Hz.png" height=200> <img src="https://i.imgur.com/FUEx5df.png" height=200> 
+<img src="https://i.imgur.com/vv5TMt9.png" height=200> <img src="https://i.imgur.com/mcoyI4P.png" height=200>
+<img src="https://i.imgur.com/G8SNszt.png" height=200> <img src="https://i.imgur.com/4vEg2st.png" height=200> 
+<img src="https://i.imgur.com/P4DmkM1.png" height=200> <img src="https://i.imgur.com/QCGiJNf.png" height=200>
+<img src="https://i.imgur.com/lJ1Mbz0.png" height=200> <img src="https://i.imgur.com/XbH0AYg.png" height=200>
 
 
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
 Post
 
