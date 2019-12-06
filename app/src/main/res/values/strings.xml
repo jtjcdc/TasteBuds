@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TASTEBUDSV3</string>
+    <string name="Spicy">Spicy</string>
+    <string name="Sweet">Sweet</string>
+    <string name="Sour">Sour</string>
+    <string name="Healthy">Healthy</string>
+    <string name="Seafood">Seafood</string>
+    <string name="Soul">Soul</string>
+    <string name="Bitter">Bitter</string>
+    <string name="Fusion">Fusion</string>
+    <string name="Cajun">Cajun</string>
+    <string name="Salty">Salty</string>
+    <string name="Hearty">Hearty</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "954686924631",
+    "firebase_url": "https://tastebuds-id2.firebaseio.com",
+    "project_id": "tastebuds-id2",
+    "storage_bucket": "tastebuds-id2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954686924631:android:09df529c023c9d5fbe0012",
+        "android_client_info": {
+          "package_name": "com.example.tastebudsv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954686924631-v1od6k2gec9gsmv862cnolnu5ng7m62s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEEfUkg6pXoySG_un27IWGg7Tc2CEP3HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954686924631-v1od6k2gec9gsmv862cnolnu5ng7m62s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
