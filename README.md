@@ -111,7 +111,7 @@ TasteBuds is a food social media network that makes food and restaurant recommen
    
 * Setting-> Toggle Settings
    
-* Camera->  Profile Allows the user to take profile information
+* Camera->  Profile Allows the user to take profile picture
   
 * Explore / Recommendation->  Search for restaurants, users, etc.
    
